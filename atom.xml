@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dandyjyanaimon.github.io/atom.xml" rel="self"/>
   <link href="http://dandyjyanaimon.github.io/"/>
-  <updated>2015-10-26T10:32:12+09:00</updated>
+  <updated>2015-10-26T11:25:57+09:00</updated>
   <id>http://dandyjyanaimon.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first]]></title>
+    <link href="http://dandyjyanaimon.github.io/blog/2015/10/26/first/"/>
+    <updated>2015-10-26T11:23:59+09:00</updated>
+    <id>http://dandyjyanaimon.github.io/blog/2015/10/26/first</id>
+    <content type="html"><![CDATA[<h1>はじめての記事</h1>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">def</span> <span class="nf">hoge</span>
+</span><span class='line'>  <span class="n">pust</span> <span class="s1">&#39;Hello World.&#39;</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
 </feed>
