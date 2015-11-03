@@ -4,7 +4,7 @@
   <title><![CDATA[Category: リリイベ | ダンディーじゃないもん！]]></title>
   <link href="http://dandyjyanaimon.github.io/blog/categories/ririibe/atom.xml" rel="self"/>
   <link href="http://dandyjyanaimon.github.io/"/>
-  <updated>2015-11-03T12:26:50+09:00</updated>
+  <updated>2015-11-03T12:28:03+09:00</updated>
   <id>http://dandyjyanaimon.github.io/</id>
   <author>
     <name><![CDATA[ダダダ]]></name>
@@ -38,7 +38,7 @@
 
 <p>帰りは東池袋の中本で「冷やし味噌野菜」を食べた。</p>
 
-<p>rubyで今を表現してみた
+<p>rubyで今を表現
 <code>ruby
 band = enjoy?
 p 'Happy Life!' if !band
