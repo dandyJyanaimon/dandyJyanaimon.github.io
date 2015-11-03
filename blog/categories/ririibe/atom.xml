@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: リリイベ | ダンディーじゃないもん！]]></title>
+  <link href="http://dandyjyanaimon.github.io/blog/categories/ririibe/atom.xml" rel="self"/>
+  <link href="http://dandyjyanaimon.github.io/"/>
+  <updated>2015-11-03T12:26:50+09:00</updated>
+  <id>http://dandyjyanaimon.github.io/</id>
+  <author>
+    <name><![CDATA[ダダダ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[リリイベ]]></title>
+    <link href="http://dandyjyanaimon.github.io/blog/2015/11/03/ririibe/"/>
+    <updated>2015-11-03T12:09:35+09:00</updated>
+    <id>http://dandyjyanaimon.github.io/blog/2015/11/03/ririibe</id>
+    <content type="html"><![CDATA[<p>リリイベ。</p>
+
+<p>それはリリースイベントの略。
+新しい音源などが出る際に行われる。</p>
+
+<p>初めて知った単語だった。</p>
+
+<p>どんなものかとこっそり一番後ろで観察させてもらった。</p>
+
+<p>すごい熱気だった。<br>
+もし自分がアイドルで、こんなに熱く応援してもらえたら
+どんなに力強いかと思った。</p>
+
+<p>バンもんと出会って新しい世界を見せてもらっている。</p>
+
+<p>チェキとか恥ずかしくてまだ無理だけど、<br>
+いつか撮れるようになったら、ちょっとは一人前かな。。。</p>
+
+<p>帰りは東池袋の中本で「冷やし味噌野菜」を食べた。</p>
+
+<p>rubyで今を表現してみた
+<code>ruby
+band = enjoy?
+p 'Happy Life!' if !band
+</code></p>
+]]></content>
+  </entry>
+  
+</feed>
